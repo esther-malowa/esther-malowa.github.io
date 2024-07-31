@@ -29,3 +29,5 @@ This is my portfolio website
 
 
 ### Project Overview
+
+The primary goal of this project is to analyze job market trends, identify key factors influencing employment, and provide actionable insights for job seekers, employers, and policymakers. The analysis will focus on various aspects such as job demand, salary trends,  and geographical distribution of job opportunities.
